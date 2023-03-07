@@ -37,4 +37,34 @@ You may also want to update conda,
 conda update conda
 ```
 
-## Install Cuda toolkit drivers
+## Create conda environment
+Create a new conda environment named `tf` with the following command.
+```
+conda create --name tf python
+```
+You can activate it with the following commands.
+```
+conda activate tf
+```
+## GPU Setup and tensorflow installation
+Follow <a href='https://www.tensorflow.org/install/pip'>this link</a>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
